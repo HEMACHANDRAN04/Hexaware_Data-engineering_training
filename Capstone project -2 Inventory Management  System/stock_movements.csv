@@ -1,0 +1,13 @@
+product_id,product_name,warehouse_id,movement_type,quantity,movement_date,reorder_level
+101,Laptop,1,IN,50,2026-05-01,10
+102,Mouse,2,IN,30,2026-05-01,20
+103,Keyboard,3,OUT,-5,2026-05-02,15
+104,Monitor,4,IN,20,2026-05-02,8
+105,Printer,5,OUT,-2,2026-05-03,5
+106,Scanner,6,IN,15,2026-05-03,6
+107,Speaker,7,OUT,-4,2026-05-04,12
+108,Router,8,IN,40,2026-05-04,10
+109,Hard Disk,9,OUT,-3,2026-05-05,7
+110,Pendrive,10,IN,60,2026-05-05,25
+111,Headphones,2,IN,25,2026-05-06,12
+112,Charger,3,OUT,-6,2026-05-06,15

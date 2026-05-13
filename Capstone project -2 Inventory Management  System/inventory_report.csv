@@ -1,0 +1,13 @@
+product_id,Current_Stock,Reorder_Level,Low_Stock_Flag
+101,50,10,NO
+102,30,20,NO
+103,-5,15,YES
+104,20,8,NO
+105,-2,5,YES
+106,15,6,NO
+107,-4,12,YES
+108,40,10,NO
+109,-3,7,YES
+110,60,25,NO
+111,25,12,NO
+112,-6,15,YES
