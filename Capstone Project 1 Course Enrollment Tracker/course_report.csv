@@ -1,0 +1,11 @@
+course_id,course_name,average_completion
+101,Python Basics,45.0
+102,SQL Mastery,100.0
+103,Data Engineering,65.0
+104,Machine Learning,0.0
+105,Cloud Computing,100.0
+106,Power BI,55.0
+107,Java Programming,100.0
+108,Web Development,0.0
+109,DevOps,40.0
+110,PySpark,100.0

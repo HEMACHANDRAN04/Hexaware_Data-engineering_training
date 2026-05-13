@@ -1,0 +1,11 @@
+student_id,course_id,course_name,completion
+1,101,Python Basics,45
+2,102,SQL Mastery,100
+3,103,Data Engineering,65
+4,104,Machine Learning,
+5,105,Cloud Computing,100
+6,106,Power BI,55
+7,107,Java Programming,110
+8,108,Web Development,-10
+9,109,DevOps,40
+10,110,PySpark,100
